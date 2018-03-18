@@ -13,6 +13,7 @@ void main() {
 	printf("Enter the target number: ");
 	scanf("%d", &target);
 	printf("findAr(): %d", findAr(size, ar, target));
+
 }
 int findAr(int size, int ar[], int target) {
 	/* write your code here */
