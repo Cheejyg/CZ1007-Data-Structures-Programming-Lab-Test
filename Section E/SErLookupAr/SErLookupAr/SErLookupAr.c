@@ -24,5 +24,6 @@ int rLookupAr(int array[], int size, int target) {
 			//break;
 		}
 	}
+	
 	return y;
 }
