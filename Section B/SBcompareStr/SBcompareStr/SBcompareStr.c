@@ -10,7 +10,9 @@ void main() {
 
 }
 int compareStr(char *s, char *t) {
-	int x, temp = 0;
+	/* Write your code here */
+	int x;
+	int temp = 0;
 
 	/*while (*(s + x) != '\0' || *(t + x) != '0') {
 		if (*(s + x) != *(t + x)) {
